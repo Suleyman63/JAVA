@@ -13,31 +13,14 @@ public class JavaClass2 {
 			
 			
 */			
-			//StringBuilder str=new StringBuilder("Kenan");
-			//str.reverse();
+			StringBuilder str=new StringBuilder("Kenan");
+			str.reverse();
 			
-			//System.out.println(str);
+			System.out.println(str);
 	
 		
 		
-		String str="Kenan";
-		String cevrilen=cevir(str);
-		System.out.println(cevrilen);
 		
-		
-	}
-
-	private static String cevir(String str) {
-		
-		
-		if(str.isEmpty())
-			return str;
-		
-
-	
-
-return cevir(str.substring(1) + str.charAt(0));
-	
 	}
 	}
 	
