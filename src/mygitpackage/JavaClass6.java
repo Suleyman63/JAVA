@@ -7,6 +7,8 @@ public class JavaClass6 {
 
 		System.out.println("Hello");
 		
+		System.out.println("kenan");
+		
 	}
 
 }
