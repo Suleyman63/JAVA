@@ -32,7 +32,7 @@ public class AsalSayiBulma {
         else {
             System.out.println(sayi + " Asal bir sayi degildir.");
         }
-        
+        scan.close();
 
 	}
 
