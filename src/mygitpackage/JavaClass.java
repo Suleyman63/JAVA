@@ -2,7 +2,7 @@ package mygitpackage;
 
 import java.util.Scanner;
 
-public class AsalSayiBulma {
+public class JavaClass {
 
 	public static void main(String[] args) {
 		
