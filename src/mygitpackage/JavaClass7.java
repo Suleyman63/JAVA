@@ -6,6 +6,9 @@ public class JavaClass7 {
 		
 System.out.println("world");
 
+
+System.out.println("================");
+
 	}
 
 }
