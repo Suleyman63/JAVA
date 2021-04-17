@@ -4,11 +4,18 @@ public class JavaClass1 {
 
 	public static void main(String[] args) {
 
-		System.out.println("Version 1");
-
-		System.out.println("github dan merhaba");
-
-		System.out.println("version 2");
+		Scanner scan=new Scanner(System.in);
+		System.out.println("Lutfen bir tam sayi giriniz");
+		int sayi=scan.nextInt();
+		
+		int faktoryel=1;
+		for(int i=1; i<=sayi; i++){
+		
+		faktoryel=faktoryel*i;
+			
+		
+		}
+			System.out.println(faktoryel);
 	}
 
 }
