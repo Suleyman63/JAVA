@@ -1,5 +1,7 @@
 package mygitpackage;
 
+import java.util.Scanner;
+
 public class JavaClass1 {
 
 	public static void main(String[] args) {
@@ -16,6 +18,8 @@ public class JavaClass1 {
 		
 		}
 			System.out.println(faktoryel);
+			
+			scan.close();
 	}
 
 }
