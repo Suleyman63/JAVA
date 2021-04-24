@@ -1,4 +1,4 @@
-package mygitpackage;
+package package1;
 
 public class JavaClass3 {
 
