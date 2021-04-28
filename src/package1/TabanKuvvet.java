@@ -1,6 +1,6 @@
 package package1;
 
-public class JavaClass8 {
+public class TabanKuvvet {
 
 	public static void main(String[] args) {
 		

@@ -2,7 +2,7 @@ package package1;
 
 import java.util.Scanner;
 
-public class JavaClass1 {
+public class Faktoryel {
 
 	public static void main(String[] args) {
 

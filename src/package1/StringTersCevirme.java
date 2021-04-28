@@ -1,9 +1,18 @@
 package package1;
 
-public class JavaClass3 {
+public class StringTersCevirme {
 
 	public static void main(String[] args) {
 
+		StringBuilder str = new StringBuilder("Kenan");
+		str.reverse();
+
+		System.out.println(str);
+
+	
+//====================================================//
+		
+		
 		String a = "java";
 		String cevrilen = cevir(a);
 		System.out.println(cevrilen);
@@ -18,5 +27,4 @@ public class JavaClass3 {
 		return cevir(a.substring(1)) + a.charAt(0);
 
 	}
-
 }

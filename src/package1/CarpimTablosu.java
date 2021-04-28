@@ -2,7 +2,7 @@ package package1;
 
 import java.util.Scanner;
 
-public class JavaClass5 {
+public class CarpimTablosu {
 
 	public static void main(String[] args) {
 

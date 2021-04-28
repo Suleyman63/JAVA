@@ -1,6 +1,6 @@
 package package1;
 
-public class JavaClass9 {
+public class SayiyiTersCevirme {
 	
 	
 	public static void main(String[] args) {

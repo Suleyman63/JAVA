@@ -1,6 +1,6 @@
 package package1;
 
-public class JavaClass7 {
+public class AlfabeYazdir {
 
 	public static void main(String[] args) {
 
