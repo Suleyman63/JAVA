@@ -8,7 +8,7 @@ public class Ekok {
 
 		for (int i = 1; n1 <= n1 && i <= n2; i++) {
 
-			if (n1 % i == 0 && n2 % i == 0)
+			if (n1%i==0 && n2%i==0)
 				ebob = i;
 
 		}

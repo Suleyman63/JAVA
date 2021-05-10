@@ -13,7 +13,7 @@ public class AsalSayi {
 		int sayac = 0;
 
 		for (int i = 2; i < sayi; i++) {
-			if (sayi % i == 0) {
+			if (sayi%i==0) {
 				sayac++;
 			}
 		}

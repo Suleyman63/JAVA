@@ -10,11 +10,11 @@ public class CarpimTablosu {
 		System.out.println("Lutfen 10 dan kucuk bir sayi giriniz");
 		int sayi = scan.nextInt();
 
-		for (int i = 1; i <= sayi; i++) {
+		for (int i=1; i<=sayi; i++) {
 
-			for (int k = 1; k <= sayi; k++) {
+			for (int j=1; j<= sayi; j++) {
 
-				System.out.print(i * k + " ");
+				System.out.print(i * j + " ");
 			}
 			System.out.println();
 
