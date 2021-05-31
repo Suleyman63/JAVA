@@ -11,7 +11,7 @@ public class TabanKuvvet {
 		int sonuc=1;
 		
 		
-		for(;kuvvet>0; --kuvvet) {
+		for(int i=0; i<=kuvvet; i++) {
 			sonuc*=taban;
 		}
 		System.out.print(sonuc);

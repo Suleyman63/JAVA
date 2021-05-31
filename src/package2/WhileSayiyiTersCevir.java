@@ -2,7 +2,7 @@ package package2;
 
 import java.util.Scanner;
 
-public class WhileIleSayiyiTersCevirme {
+public class WhileSayiyiTersCevir {
 
 	public static void main(String[] args) {
 

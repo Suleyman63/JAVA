@@ -2,7 +2,7 @@ package package2;
 
 import java.util.Scanner;
 
-public class Class1 {
+public class Fibbonaci {
 
 	public static void main(String[] args) {
 
