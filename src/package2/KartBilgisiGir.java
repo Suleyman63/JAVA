@@ -21,7 +21,7 @@ public class KartBilgisiGir {
 			soyisim = soyisim.substring(0, 1).toUpperCase() + soyisim.substring(1).replaceAll("\\w", "*");
 			kartno = ("**** **** ****") + kartno.substring(kartno.length() - 4);
 		} else {
-			System.out.println("Gcerli bir kart no giriniz");
+			System.out.println("Gecerli bir kart no giriniz");
 		}
 		System.out.println(isim + " " + soyisim + "  " + kartno);
 
