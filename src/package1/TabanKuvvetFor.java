@@ -1,6 +1,6 @@
 package package1;
 
-public class TabanKuvvet {
+public class TabanKuvvetFor {
 
 	public static void main(String[] args) {
 		

@@ -14,6 +14,7 @@ public class AmstrongSayi {
 
 		for (int i = 100; i < 1000; i++) {
 
+		}
 			yuzler = sayi / 100;
 			onlar = (sayi % 100) / 10;
 			birler = sayi % 10;
@@ -25,7 +26,7 @@ public class AmstrongSayi {
 
 			} else {
 				System.out.println("Amstrong sayi degil");
-			}
+			
 
 		}
 		scan.close();
